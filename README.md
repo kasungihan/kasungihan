@@ -6,8 +6,8 @@ I'm a **Senior Full-Stack Software Engineer** from 🇱🇰 Sri Lanka with over 
 
 ## 🛠️ Tech Stack
 
-- **Backend**: PHP (Laravel), Node.js (NestJS)
-- **Frontend**: Vue.js, Nuxt.js, JavaScript, TypeScript
+- **Backend**: PHP (Laravel), Node.js (NestJS), Go
+- **Frontend**: Next.js, Vue.js, Nuxt.js, JavaScript, TypeScript
 - **Database**: MySQL, MongoDB
 - **DevOps**: Docker, AWS (EC2, S3, SQS, RDS, CloudWatch, Load Balancer), GitLab CI/CD
 - **Others**: Redis (ElastiCache), REST APIs, Swagger/OpenAPI, Microservices architecture, GSAP Animations
@@ -43,7 +43,7 @@ I'm a **Senior Full-Stack Software Engineer** from 🇱🇰 Sri Lanka with over 
 
 ## 📫 Let's Connect
 
-- 🌐 [kasungihan.dev](https://kasungihan.dev)
+- 🌐 [kasungihan.com](https://kasungihan.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kasun-gihan/)
 - 📨 Drop me a message on GitHub or via email
 
